@@ -1,0 +1,12 @@
+{
+"app_id":"wx040dd03475c7f952",
+"app_secret":"cdbba7848b3480b598b4c9e64c5005b8",
+"template_id":"7SmqkUBROCYC17z9azxeHnHi9F-dfMCaiZU6FnKv4Ow"
+"usder":["oK8dB5yFePmLua8_ITyPfdzzTqk8"],
+
+"weather_key":"6afb9587173a448aa4b4265ea434e354",
+"region":"潮州市",
+"birthday1":{"name":"鲍鲍哥","birthday": "2003-06-11"},
+"birthday2":{"name":"小安吉","birthday": "2002-08-13"},
+"love_date":"2021-12-25",
+}
